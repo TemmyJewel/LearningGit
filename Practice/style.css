@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    background-image: url('Background.jpeg');
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    padding: 50px 500px;
+}
+
+.card{
+    width: 300px !important;
+    height: 440px !important;
+    background-color: whitesmoke;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 8px;
+}
+
+.image{
+    height: 160px;
+    width: 300px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+    text-align: center;
+}
+
+h4{
+    font-size: 15px;
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+    text-align: center;
+}
+
+.contain{
+    display: flex;
+    justify-content:space-between;
+    padding: 15px 10px;
+    background-color: hsla(225, 100%, 94%, 0.5);
+    margin: 10px 15px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+h5{
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 3px 0;
+
+}
+
+.btn1{
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 3px;
+    height: 30px;
+    width: 170px;
+    margin: 5px 60px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.3);
+}
+
+.btn2{
+    background-color: hsla(245, 75%, 52%, 0);
+    color: hsl(224, 11%, 40%);
+    border:none;
+    border-radius: 3px;
+    height: 30px;
+    width: 170px;
+    margin: 0px 60px;
+}
+
+
+

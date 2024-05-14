@@ -1,0 +1,61 @@
+body{
+    background-color: yellowgreen;
+    margin: 0;
+    padding: 50px 550px;
+    
+}
+
+.contain{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img1{
+    border-radius: 18px;
+    margin: 15px 25px;
+    width: 250px;
+    height: 150px;
+}
+
+button{
+    width:80px;
+    height:50px;
+    margin: 5px 25px;
+    background-color: yellowgreen;
+    border: none;
+}
+
+h5{
+    margin: 5px 25px;
+    font-weight: 400;
+}
+
+h3{
+    margin: 8px 25px; 
+}
+
+p{
+    margin: 5px 25px;
+    font-weight: 100;  
+    font-size: 15px;
+}
+
+.imgg{
+    display: flex;
+}
+
+.img2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    margin: 10px 25px;
+}
+
+h2{
+    margin-top: 17px;
+    font-size: 15px;
+}
